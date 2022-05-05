@@ -1,0 +1,88 @@
+{
+    "bot": {
+        "owner": "728931818182541392",
+        "prefix": ".",
+        "BotStatus": "GECE ❤️ VAHAP",
+        "BotFooter": "Vahap was Here!",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "971822987143708692",
+            "log": "971829745148919838",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "971822995591008376",
+            "roles": "971829871091265576",
+            "log": "971830188683952218",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "971822998619308063",
+            "roles": "971830438437990470",
+            "log": "971830643266818068",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "971828661957308436",
+            "log": "971830860322074705"
+        },
+        "transport": {
+            "staff": "971828436291182593"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "971832650442625066",
+        "rollog": "971832650442625066",
+        "messagelog": "971832562219614228",
+        "seslog": "971832599360176198"
+    },
+    "roles": {
+        "vip": "971833534534795264",
+        "sponsor": "967454982012022872",
+        "müzisyen": "967454982012022873",
+        "team": "971833534534795264"
+    },
+    "channels": {
+        "chat": "967454982729252919",
+        "voicechannel": "967454982322417671",
+        "welcomechannel": "971835176583831683",
+        "rules": "967454982322417673"
+    },
+    "registration": {
+        "unregistered": "971834504161427558",
+        "man": ["968923820981383170", "968532274750562324"],
+        "woman": ["968923602974019585", "968532274750562324"],
+        "yetkilialim": "971836334358536202",
+        "staff": "971822861771739197",
+        "enaltyetkilirolü": "967454982322417664",
+        "GuilDTag": "🧸",
+        "TagSymbol": "🧸",
+        "autonickname": "🧸 İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "971837074955202601",
+        "susoeciosnickname": "🧸 Şüpheli Hesap",
+        "oneman": "968923820981383170",
+        "onewoman": "968923602974019585",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "967454982012022866",
+        "GuilDName": "●GECE 🖥 SCRİM●",
+        "GuildOwnerRole": ["969983389832720425",""]
+    },
+    "emojis": {
+        "tada": "https://images-ext-2.discordapp.net/external/JxxdgEPf1nUP4UOumP5kTxpWM2_LmHNWTzxrlwDMlYA/https/cdn.discordapp.com/emojis/971837894966779984.gif?width=102&height=102",
+        "yes": "https://images-ext-2.discordapp.net/external/RF59uDtjdpu7C82eC0lIQgMIHKBtzmWIPn3aP9fGcDU/https/cdn.discordapp.com/emojis/971838031768207462.gif?width=102&height=102",
+        "no": "https://images-ext-2.discordapp.net/external/yMWYTQgEOqfER5NHOgHAnEqMWejSdAzs61Y1qP9J2OQ/https/cdn.discordapp.com/emojis/971838124428755055.gif?width=102&height=102"
+
+    }
+} 
